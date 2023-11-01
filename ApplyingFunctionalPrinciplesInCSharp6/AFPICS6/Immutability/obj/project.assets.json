@@ -8,32 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\fedlerjason\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/jasonfedler/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\ApplyingFunctionalPrinciplesInCSharp6\\AFPICS6\\Immutability\\Immutability.csproj",
+      "projectUniqueName": "/Users/jasonfedler/dev/GitHub/Three97/PluralsightCourses/ApplyingFunctionalPrinciplesInCSharp6/AFPICS6/Immutability/Immutability.csproj",
       "projectName": "Immutability",
-      "projectPath": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\ApplyingFunctionalPrinciplesInCSharp6\\AFPICS6\\Immutability\\Immutability.csproj",
-      "packagesPath": "C:\\Users\\fedlerjason\\.nuget\\packages\\",
-      "outputPath": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\ApplyingFunctionalPrinciplesInCSharp6\\AFPICS6\\Immutability\\obj\\",
+      "projectPath": "/Users/jasonfedler/dev/GitHub/Three97/PluralsightCourses/ApplyingFunctionalPrinciplesInCSharp6/AFPICS6/Immutability/Immutability.csproj",
+      "packagesPath": "/Users/jasonfedler/.nuget/packages/",
+      "outputPath": "/Users/jasonfedler/dev/GitHub/Three97/PluralsightCourses/ApplyingFunctionalPrinciplesInCSharp6/AFPICS6/Immutability/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\fedlerjason\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/jasonfedler/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://teamcity.inreach.garmin.com/httpAuth/app/nuget/v1/FeedService.svc/": {}
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
@@ -66,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

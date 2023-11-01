@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UrAQjmhxQSr1yUoodv05jA1Bx3FFOUTttER1gn/qof8DwFcKMOD9J2BrpP7ND6fnfSIvNGepNU529lyghNKZgg==",
+  "dgSpecHash": "vVx7ajDoZRzcjU1TJenh+9l4+xfUt/Vt/fbcecvOJU50j36XHk7aP+jXyMMYjMMG85o1rzqtF22epnPeNyJMIQ==",
   "success": true,
-  "projectFilePath": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\ApplyingFunctionalPrinciplesInCSharp6\\AFPICS6\\Immutability\\Immutability.csproj",
+  "projectFilePath": "/Users/jasonfedler/dev/GitHub/Three97/PluralsightCourses/ApplyingFunctionalPrinciplesInCSharp6/AFPICS6/Immutability/Immutability.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
