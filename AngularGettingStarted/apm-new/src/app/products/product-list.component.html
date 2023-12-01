@@ -16,7 +16,7 @@
       </div>
     </div>
     <div class="table-responsive">
-      <table class="table" *ngIf="allProducts.length">
+      <table class="table" *ngIf="filteredProducts.length">
         <thead>
           <tr>
             <th>
@@ -32,7 +32,7 @@
           </tr>
         </thead>
         <tbody>
-          <tr *ngFor="let product of allProducts">
+          <tr *ngFor="let product of filteredProducts">
             <td>
               <img [src]="product.imageUrl"
                    *ngIf="showImages"
@@ -43,7 +43,7 @@
                    alt="">
             </td>
             <td>{{ product.productName }}</td>
-            <td>{{ product.productCode | uppercase }}</td>
+            <td>{{ product.productCode | uppercase | convertToSpaces:"-" }}</td>
             <td>{{ product.releaseDate | date }}</td>
             <td>{{ product.price | currency }}</td>
             <td>{{ product.starRating }}</td>
