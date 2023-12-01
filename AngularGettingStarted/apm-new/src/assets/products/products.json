@@ -1,16 +1,4 @@
-import { Component } from "@angular/core";
-
-@Component({
-  selector: "pm-products",
-  templateUrl: "./product-list.component.html"
-})
-export class ProductListComponent {
-  pageTitle: string = "Product List";
-  showImages: boolean = false;
-  imageWidth: number = 50;
-  imageMargin: number = 2;
-  listFilter: string = "cart";
-  allProducts: any[] = [
+[
   {
     "productId": 1,
     "productName": "Leaf Rake",
@@ -61,10 +49,4 @@ export class ProductListComponent {
     "starRating": 4.6,
     "imageUrl": "assets/images/xbox-controller.png"
   }
-  ];
-  // products: any[] = this.allProducts.find(x => x.productName.includes(this.listFilter));
-  toggleImage(): void {
-    this.showImages = !this.showImages;
-  }
-
-}
+]
