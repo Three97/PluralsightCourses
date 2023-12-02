@@ -1,0 +1,9 @@
+<div class="crop"
+     [style.width.px]="cropWidth"
+     [title]="rating"
+     (click)="onClick()">
+  <div [style.width.px]="overallWidth">
+    <span *ngFor="let s of [].constructor(maxStars)" class="fa fa-star">
+    </span>
+  </div>
+</div>
