@@ -1,6 +1,7 @@
-import { Component, Inject, OnInit } from "@angular/core";
+import { Component, Inject, OnDestroy, OnInit } from "@angular/core";
 import { IProduct } from "./interfaces/IProduct";
-import { ProductService } from "../services/product.service";
+import { ProductHttpService } from "../services/product.http.service";
+import { Subscription } from "rxjs";
 
 @Component({
   selector: "pm-products",
@@ -9,8 +10,8 @@ import { ProductService } from "../services/product.service";
     "./product-list.component.css"
   ]
 })
-export class ProductListComponent implements OnInit {
-  constructor(private _productService: ProductService)
+export class ProductListComponent implements OnInit, OnDestroy {
+  constructor(private _productService: ProductHttpService)
   {
   }
 
@@ -18,6 +19,7 @@ export class ProductListComponent implements OnInit {
   showImages: boolean = false;
   imageWidth: number = 50;
   imageMargin: number = 2;
+  productSubscriber!: Subscription;
 
   private _listFilter: string = "";
   get listFilter(): string {
@@ -47,7 +49,17 @@ export class ProductListComponent implements OnInit {
 
   ngOnInit(): void {
     this.listFilter = "";
-    this.products = this._productService.getProducts();
-    this.filteredProducts = this.products;
+    this.productSubscriber = this._productService
+      .getProducts().subscribe({
+        next: data => {
+          this.products = data;
+          this.filteredProducts = this.products;
+        },
+        error: err => console.log(err)
+      });
+  }
+
+  ngOnDestroy(): void {
+    this.productSubscriber.unsubscribe();
   }
 }
