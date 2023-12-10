@@ -1,10 +1,9 @@
 import { Component, Inject, OnDestroy, OnInit } from "@angular/core";
-import { IProduct } from "./interfaces/IProduct";
+import { IProduct } from "../interfaces/IProduct";
 import { ProductHttpService } from "../services/product.http.service";
 import { Subscription } from "rxjs";
 
 @Component({
-  selector: "pm-products",
   templateUrl: "./product-list.component.html",
   styleUrls: [
     "./product-list.component.css"
