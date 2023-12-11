@@ -5,3 +5,9 @@
 ## 2023-10-25
 
 Started the course.
+
+## 2023-12-11
+
+Finished the course.
+
+Angular notes stored elsewhere.
