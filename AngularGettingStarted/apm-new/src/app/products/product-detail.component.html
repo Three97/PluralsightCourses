@@ -1,9 +1,9 @@
 <div class="card">
-  <div class="card-header" *ngIf="product">
-    {{pageTitle + ": " + product.productName + " (" + starRating + " stars)"}}
+  <div class="card-header" *ngIf="showProduct">
+    {{pageTitle + ": " + product?.productName + " (" + starRating + " stars)"}}
   </div>
   <div class="card-body">
-    <div class="row">
+    <div class="row" *ngIf="showProduct">
       <div class="col">
         <div class="table">
           <div class="row">
@@ -36,6 +36,11 @@
              [title]="product?.productName"
              [style.width.px]="imageWidth"
              alt="">
+      </div>
+    </div>
+    <div class="row" *ngIf="!showProduct">
+      <div class="col container">
+        No product found with that identifier
       </div>
     </div>
   </div>
