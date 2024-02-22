@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|c:\\grmn\\dev\\github\\three97\\pluralsightcourses\\datadrivenblazorefcore\\wiredbraincoffee.employeemanager\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|c:\\grmn\\dev\\github\\three97\\pluralsightcourses\\datadrivenblazorefcore\\wiredbraincoffee.employeemanager\\pages\\employeeoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|solutionrelative:pages\\employeeoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|c:\\grmn\\dev\\github\\three97\\pluralsightcourses\\datadrivenblazorefcore\\wiredbraincoffee.employeemanager\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|c:\\grmn\\dev\\github\\three97\\pluralsightcourses\\datadrivenblazorefcore\\wiredbraincoffee.employeemanager\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|c:\\grmn\\dev\\github\\three97\\pluralsightcourses\\datadrivenblazorefcore\\wiredbraincoffee.employeemanager\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|solutionrelative:shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|c:\\grmn\\dev\\github\\three97\\pluralsightcourses\\datadrivenblazorefcore\\wiredbraincoffee.employeemanager\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|solutionrelative:shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|c:\\grmn\\dev\\github\\three97\\pluralsightcourses\\datadrivenblazorefcore\\wiredbraincoffee.employeemanager\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|c:\\grmn\\dev\\github\\three97\\pluralsightcourses\\datadrivenblazorefcore\\wiredbraincoffee.employeemanager\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|solutionrelative:pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|c:\\grmn\\dev\\github\\three97\\pluralsightcourses\\datadrivenblazorefcore\\wiredbraincoffee.employeemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A30502-889F-4E67-94BA-78C2424A2C7D}|WiredBrainCoffee.EmployeeManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeOverview.razor",
+              "DocumentMoniker": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Pages\\EmployeeOverview.razor",
+              "RelativeDocumentMoniker": "Pages\\EmployeeOverview.razor",
+              "ToolTip": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Pages\\EmployeeOverview.razor",
+              "RelativeToolTip": "Pages\\EmployeeOverview.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T19:41:33.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T19:41:45.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Shared\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor.css",
+              "ToolTip": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Shared\\MainLayout.razor.css",
+              "RelativeToolTip": "Shared\\MainLayout.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-22T19:33:05.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Shared\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor.css",
+              "ToolTip": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Shared\\NavMenu.razor.css",
+              "RelativeToolTip": "Shared\\NavMenu.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-22T19:31:57.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
+              "ToolTip": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T19:25:51.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T19:25:07.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T19:24:46.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T19:24:04.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T19:23:21.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
