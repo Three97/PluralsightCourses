@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WiredBrainCoffee.EmployeeManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7203fd6529a23dd163742dcf14c949468eb7fb19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f033c322c1af98e2790885fea8ada83fea1abd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("WiredBrainCoffee.EmployeeManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WiredBrainCoffee.EmployeeManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
