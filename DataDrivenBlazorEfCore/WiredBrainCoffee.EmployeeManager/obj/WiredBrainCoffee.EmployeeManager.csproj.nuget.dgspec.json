@@ -1,34 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager.csproj": {}
+    "/Users/jasonfedler/dev/GitHub/Three97/PluralsightCourses/DataDrivenBlazorEfCore/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager.csproj": {}
   },
   "projects": {
-    "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager.csproj": {
+    "/Users/jasonfedler/dev/GitHub/Three97/PluralsightCourses/DataDrivenBlazorEfCore/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager.csproj",
+        "projectUniqueName": "/Users/jasonfedler/dev/GitHub/Three97/PluralsightCourses/DataDrivenBlazorEfCore/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager.csproj",
         "projectName": "WiredBrainCoffee.EmployeeManager",
-        "projectPath": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\WiredBrainCoffee.EmployeeManager.csproj",
-        "packagesPath": "C:\\Users\\fedlerjason\\.nuget\\packages\\",
-        "outputPath": "C:\\grmn\\dev\\GitHub\\Three97\\PluralsightCourses\\DataDrivenBlazorEfCore\\WiredBrainCoffee.EmployeeManager\\obj\\",
+        "projectPath": "/Users/jasonfedler/dev/GitHub/Three97/PluralsightCourses/DataDrivenBlazorEfCore/WiredBrainCoffee.EmployeeManager/WiredBrainCoffee.EmployeeManager.csproj",
+        "packagesPath": "/Users/jasonfedler/.nuget/packages/",
+        "outputPath": "/Users/jasonfedler/dev/GitHub/Three97/PluralsightCourses/DataDrivenBlazorEfCore/WiredBrainCoffee.EmployeeManager/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\fedlerjason\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+          "/Users/jasonfedler/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://teamcity.inreach.garmin.com/httpAuth/app/nuget/v1/FeedService.svc/": {}
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -40,11 +33,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -77,6 +65,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -85,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }

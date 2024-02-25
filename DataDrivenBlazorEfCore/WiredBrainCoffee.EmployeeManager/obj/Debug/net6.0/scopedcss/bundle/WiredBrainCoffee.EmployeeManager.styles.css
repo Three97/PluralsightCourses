@@ -1,19 +1,19 @@
 /* _content/WiredBrainCoffee.EmployeeManager/Shared/MainLayout.razor.rz.scp.css */
-.page[b-m04gkrueb5] {
+.page[b-osaxueh4ki] {
     position: relative;
     display: flex;
     flex-direction: column;
 }
 
-main[b-m04gkrueb5] {
+main[b-osaxueh4ki] {
     flex: 1;
 }
 
-.sidebar[b-m04gkrueb5] {
+.sidebar[b-osaxueh4ki] {
     
 }
 
-.top-row[b-m04gkrueb5] {
+.top-row[b-osaxueh4ki] {
     background-color: #f7f7f7;
     border-bottom: 1px solid #d6d5d5;
     justify-content: flex-end;
@@ -22,49 +22,49 @@ main[b-m04gkrueb5] {
     align-items: center;
 }
 
-    .top-row[b-m04gkrueb5]  a, .top-row .btn-link[b-m04gkrueb5] {
+    .top-row[b-osaxueh4ki]  a, .top-row .btn-link[b-osaxueh4ki] {
         white-space: nowrap;
         margin-left: 1.5rem;
     }
 
-    .top-row a:first-child[b-m04gkrueb5] {
+    .top-row a:first-child[b-osaxueh4ki] {
         overflow: hidden;
         text-overflow: ellipsis;
     }
 
 @media (max-width: 640.98px) {
-    .top-row:not(.auth)[b-m04gkrueb5] {
+    .top-row:not(.auth)[b-osaxueh4ki] {
         display: none;
     }
 
-    .top-row.auth[b-m04gkrueb5] {
+    .top-row.auth[b-osaxueh4ki] {
         justify-content: space-between;
     }
 
-    .top-row a[b-m04gkrueb5], .top-row .btn-link[b-m04gkrueb5] {
+    .top-row a[b-osaxueh4ki], .top-row .btn-link[b-osaxueh4ki] {
         margin-left: 0;
     }
 }
 
 @media (min-width: 641px) {
-    .page[b-m04gkrueb5] {
+    .page[b-osaxueh4ki] {
         flex-direction: row;
     }
 
-    .sidebar[b-m04gkrueb5] {
+    .sidebar[b-osaxueh4ki] {
         width: 250px;
         height: 100vh;
         position: sticky;
         top: 0;
     }
 
-    .top-row[b-m04gkrueb5] {
+    .top-row[b-osaxueh4ki] {
         position: sticky;
         top: 0;
         z-index: 1;
     }
 
-    .top-row[b-m04gkrueb5], article[b-m04gkrueb5] {
+    .top-row[b-osaxueh4ki], article[b-osaxueh4ki] {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
     }
