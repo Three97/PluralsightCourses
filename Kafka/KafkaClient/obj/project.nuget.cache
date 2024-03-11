@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "l++mWIcJvMKfyNkutagb1R1ybTtJfd0/enKjIZ9DAkq8VF2OaKzYJR7rHkkjNFOK6At1vJG0mxGDSfGuEestcQ==",
+  "success": true,
+  "projectFilePath": "/Users/jasonfedler/dev/GitHub/Three97/PluralsightCourses/Kafka/KafkaClient/KafkaClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/jasonfedler/.nuget/packages/confluent.kafka/2.3.0/confluent.kafka.2.3.0.nupkg.sha512",
+    "/Users/jasonfedler/.nuget/packages/librdkafka.redist/2.3.0/librdkafka.redist.2.3.0.nupkg.sha512",
+    "/Users/jasonfedler/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
